@@ -90,7 +90,7 @@
   scale: 1;
 }
 .start-btn{
-    
+    padding-top: 20px;
     display: flex;
     justify-content: center;
 }
